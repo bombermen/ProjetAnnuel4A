@@ -1,0 +1,36 @@
+*.log
+*.obj
+*.tlog
+*.cache
+*.pdb
+*.user
+Projects/Model_OBJ/obj/
+*.opensdf
+*.sdf
+*.suo
+*.ipch
+*.rar
+Projects/Model_OBJ/Texture.cpp
+Projects/Model_OBJ/Texture.h
+*.lastbuildstate
+*.idb
+*.ilk
+*.lib
+ESGIGL/build/Debug EGL/EsgiGL.unsuccessfulbuild
+Projects/Model_OBJ/Debug EGL/Model_OBJ.unsuccessfulbuild
+Projects/Model_OBJ/Debug GL2/Camera.obj
+Projects/Model_OBJ/Debug GL2/cl.command.1.tlog
+Projects/Model_OBJ/Debug GL2/Camera.obj
+Projects/Model_OBJ/Debug GL2/cl.command.1.tlog
+*.lib
+*.obj
+*.lastbuildstate
+*.idb
+*.vcxproj
+*.exe
+*.lib
+*.vcproj
+*.pbxproj
+*.filters
+*.idc
+*.manifest
